@@ -29,7 +29,4 @@ console.log(person.fullName());
 var x=this;
 console.log(x);//{};
 
-function myFunction() {
-    return this;
-}
-console.log(myFunction());
+// todo: https://www.w3schools.com/js/js_this.asp
